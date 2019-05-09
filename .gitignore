@@ -1,0 +1,4 @@
+*.tif
+*.avi
+folder_tmp
+.DS_Store
